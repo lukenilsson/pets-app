@@ -13,3 +13,8 @@
 #   breed: "Schnauzer",
 #   image: "foxy.jpg",
 # )
+# User.create(
+#   name: "Johnny Boy",
+#   email: "JB@example.com",
+#   password: "password",
+# )
